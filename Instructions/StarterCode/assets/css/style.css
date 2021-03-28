@@ -29,3 +29,26 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+.pt-label {
+  font-size: 10px;
+}
+
+.pt {
+  fill: lightseagreen;
+}
+
+.axis-relation {
+  font-weight: bold;
+}
+
+.tooltip {
+  position: absolute;
+  padding: 10px;
+  font: 12px sans-serif;
+  text-align: center;
+  color: black;
+  background: lightpink;
+  border: 0;
+  border-radius: 10px;
+}
